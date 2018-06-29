@@ -6,7 +6,7 @@ Il nous faut pourtant adopter des choix et comportements responsables, car la su
 
 État des lieux du surpoids et de l’obésité au Bénin
 Il faut faire d’entrée la distinction entre le surpoids qui correspond l’état d’un individu ayant un indice de masse corporelle (IMC) compris entre 25 et 30, et l’obésité qui correspond à l’état de l’individu à l’IMC supérieur à 30. L’indice IMC étant obtenu par le ratio poids/(taille x taille)… `Calculer son poids idéal
-<https://sagessesante.fr/poids-ideal/>`_.
+<https://sagessesante.fr/poids-ideal/>`_
 suivant sa taille est donc un impératif. 
 
 Le poids qui est l’un des facteurs de surpoids et d’obésité entretient une étroite relation avec l’alimentation. Il se passe de toute démonstration scientifique que plus vous mangez plus vous serez en surpoids.
