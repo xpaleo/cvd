@@ -1,4 +1,4 @@
-Conseils pour lutter contre l’obésité
+Conseils pour lutter contre l’obésité 1
 <?php echo '<a href="https://sagessesante.fr/poids-ideal/">Calculer son poids idéal</a>'; ?>
 Un nutritionniste français, Jean Trémolières, écrivit que « La société, crée des obèses et ne les tolère pas ». Une vérité qui certainement n’est entière que pour les seules sociétés occidentales. En Afrique de façon plus globale et dans notre pays le Bénin plus particulièrement, si la société crée effectivement de plus en plus de personnes en surpoids, elle est loin de les rejeter tous. Un certain opus de l’artiste Vano magnifiant la générosité du corps féminin témoigne de notre tolérance vis-à-vis du surpoids quand il s’agit de la gent féminine, le contraire n’étant pas avéré. 
 
