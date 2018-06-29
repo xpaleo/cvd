@@ -2,6 +2,9 @@ Conseils pour lutter contre l’obésité
 
 Un nutritionniste français, Jean Trémolières, écrivit que « La société, crée des obèses et ne les tolère pas ». Une vérité qui certainement n’est entière que pour les seules sociétés occidentales. En Afrique de façon plus globale et dans notre pays le Bénin plus particulièrement, si la société crée effectivement de plus en plus de personnes en surpoids, elle est loin de les rejeter tous. Un certain opus de l’artiste Vano magnifiant la générosité du corps féminin témoigne de notre tolérance vis-à-vis du surpoids quand il s’agit de la gent féminine, le contraire n’étant pas avéré. 
 
+Comme le rappel `sagessesante.fr
+<https://sagessesante.fr/>`_
+suivant sa taille est donc un impératif. 
 Il nous faut pourtant adopter des choix et comportements responsables, car la surcharge pondérale et l’obésité ont un coût sanitaire ; ils sont la source de nombreuses maladies qui financièrement et en indice d’espérance de vie nous coûtent. Il nous faut promouvoir de nouvelles et saines habitudes pour nous débarrasser de ce phénomène grandissant.
 
 État des lieux du surpoids et de l’obésité au Bénin
@@ -25,10 +28,14 @@ Pêle-mêle, on peut distinguer au nombre des maladies associées au surpoids et
 •	Les troubles respiratoires dont l’apnée c’est-à-dire l’arrêt momentané de la respiration pendant quelques secondes durant le sommeil...etc.
 
 Quelques conseils pour se défaire du surpoids ou de l’obésité
-Le surpoids est de façon générale le fruit de notre hygiène de vie, ceci englobe entre autres nos habitudes culinaires et alimentaires, notre niveau journalier d’activité. Un efficace contrôle de ces paramètres permet de retrouver la ligne et perdre du poids.
+Le surpoids est de façon générale le fruit de notre hygiène de vie, ceci englobe entre autres nos habitudes culinaires et alimentaires, notre niveau journalier d’activité. Un efficace contrôle de ces paramètres permet de `comprendre comment perdre du poids
+<https://sagessesante.fr/perdre-du-poids/>`_ 
+et retrouver la ligne.
 
 •	Ne pas trop cuire ou brûler les aliments
-Les aliments que nous consommons sont riches en protéines, toutefois plus longtemps nous les faisons cuire, plus ils perdent de leurs protéines. Ces protéines doivent être présentes en quantité dans notre organisme afin d’induire la perte des graisses et lipides du corps qu’elles utilisent comme carburant lors de la formation des tissus et cellules.
+Les aliments que nous consommons sont `riches en protéines
+<https://sagessesante.fr/regime-proteine/>`_ 
+, toutefois plus longtemps nous les faisons cuire, plus ils perdent de leurs protéines. Ces protéines doivent être présentes en quantité dans notre organisme afin d’induire la perte des graisses et lipides du corps qu’elles utilisent comme carburant lors de la formation des tissus et cellules.
 
 •	Consommez local plus souvent
 Nous avons la fâcheuse habitude de faire plus confiance à la qualité des aliments (poulets, poissons, riz…) importés qu’à nos productions locales. Or ces produits, contrairement aux nôtres produits avec des moyens rudimentaires, ne sont pas bio pour la plupart, ils contiennent le plus souvent des traces de produits obésogènes c’est-à-dire favorisant l'obésité.
