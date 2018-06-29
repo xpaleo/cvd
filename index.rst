@@ -1,11 +1,11 @@
-Conseils pour lutter contre l’obésité 4
+Conseils pour lutter contre l’obésité 5
 <?php echo '<a href=\'https://sagessesante.fr/poids-ideal/\'>Calculer son poids idéal</a>'; ?>
 Un nutritionniste français, Jean Trémolières, écrivit que « La société, crée des obèses et ne les tolère pas ». Une vérité qui certainement n’est entière que pour les seules sociétés occidentales. En Afrique de façon plus globale et dans notre pays le Bénin plus particulièrement, si la société crée effectivement de plus en plus de personnes en surpoids, elle est loin de les rejeter tous. Un certain opus de l’artiste Vano magnifiant la générosité du corps féminin témoigne de notre tolérance vis-à-vis du surpoids quand il s’agit de la gent féminine, le contraire n’étant pas avéré. 
 
 Il nous faut pourtant adopter des choix et comportements responsables, car la surcharge pondérale et l’obésité ont un coût sanitaire ; ils sont la source de nombreuses maladies qui financièrement et en indice d’espérance de vie nous coûtent. Il nous faut promouvoir de nouvelles et saines habitudes pour nous débarrasser de ce phénomène grandissant.
 
 État des lieux du surpoids et de l’obésité au Bénin
-Il faut faire d’entrée la distinction entre le surpoids qui correspond l’état d’un individu ayant un indice de masse corporelle (IMC) compris entre 25 et 30, et l’obésité qui correspond à l’état de l’individu à l’IMC supérieur à 30. L’indice IMC étant obtenu par le ratio poids/(taille x taille)… <a href=''https://sagessesante.fr/poids-ideal/'>Calculer son poids idéal</a> suivant sa taille est donc un impératif. 
+Il faut faire d’entrée la distinction entre le surpoids qui correspond l’état d’un individu ayant un indice de masse corporelle (IMC) compris entre 25 et 30, et l’obésité qui correspond à l’état de l’individu à l’IMC supérieur à 30. L’indice IMC étant obtenu par le ratio poids/(taille x taille)… <a href='https://sagessesante.fr/poids-ideal/'>Calculer son poids idéal</a> suivant sa taille est donc un impératif. 
 
 Le poids qui est l’un des facteurs de surpoids et d’obésité entretient une étroite relation avec l’alimentation. Il se passe de toute démonstration scientifique que plus vous mangez plus vous serez en surpoids.
 
