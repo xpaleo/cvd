@@ -1,4 +1,4 @@
-<h1>Les meilleures sources de protéines/h1>
+Les meilleures sources de protéines
 Plusieurs experts en nutrition s’accordent à dire que les régimes riches en protéines favorisent la perte de poids et permettent de garder fermement les masses musculaires.
 
 Cet article résume tout ce dont vous avez besoin de savoir sur les sources de protéines. Vous obtiendrez plus de précisions notamment par rapport vos besoins en protéine et les éventuels dangers d’un régime hyperprotéiné.
@@ -25,8 +25,8 @@ Ceci étant dit, voici quelques aliments d’origine végétale qui en recèlent
 
 Il faut préciser que les produits issus du monde animal regorgent de nutriments absents dans les produits végétaux tels que : les vitamines D, les vitamines B12, le zinc et le fer héminique.
 Vous pouvez avoir une gamme complète des niveaux de protéines de bien d’autres aliments en suivant l’actualité du nutritionniste 
- `sagesse sante.
-<https://sagessesante.fr/>`_
+ `sagesse sante
+<https://sagessesante.fr/>`_ .
 
 Pourquoi adopter un régime protéiné ?
 Si vous voulez perdre du poids, la majorité des régimes les plus efficaces se basent sur un apport élevé en protéine. Pourquoi cela ? Pour plusieurs raisons en réalité :
