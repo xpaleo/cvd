@@ -55,5 +55,5 @@ Si vous êtes végétarien, ajoutez à votre alimentation des produits comme : l
 
 Ainsi, au petit-déjeuner, vous pouvez prendre des œufs brouillés mélangés avec un peu de tomates. Au déjeuner : un délicieux burger au thon et au dîner : des crevettes sautées à l’ail.
 
-Pour en savoir plus consultez l’article `Régime protéiné : avis, recettes et dangers
+Pour en savoir plus consultez l’article `Regime hyperproteine : avis, recettes et dangers
 <https://sagessesante.fr/regime-proteine>`_
