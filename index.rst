@@ -54,6 +54,3 @@ Vous vous demandez sûrement quelles recettes adopter pour suivre un régime pro
 Si vous êtes végétarien, ajoutez à votre alimentation des produits comme : les champignons, les graines, les fruits à coque, les protéines de chanvre, les algues et les salicornes.
 
 Ainsi, au petit-déjeuner, vous pouvez prendre des œufs brouillés mélangés avec un peu de tomates. Au déjeuner : un délicieux burger au thon et au dîner : des crevettes sautées à l’ail.
-
-Pour en savoir plus consultez l’article `Regime hyperproteine : avis, recettes et dangers
-<https://sagessesante.fr/regime-proteine>`_
